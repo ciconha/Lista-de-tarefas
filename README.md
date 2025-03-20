@@ -17,7 +17,7 @@ Esse projeto é foi criado com a intenção de ter uma produtividade melhor nas 
 
 | Recurso       | Descrição |
 |--------------|----------|
-| **Frontend** | Interface criada com html, css  |
+| **Frontend** | Interface criada com html e css  |
 | **Backend** | Para integração de checagem e dados salvos  |
 
 
