@@ -40,5 +40,5 @@ Esse projeto é foi criado com a intenção de ter uma produtividade melhor nas 
 
 ---
 
-[link do repositório] [https://clima-temporizador.vercel.app/]
+[link do repositório] [https://lista-de-tarefas-nine-smoky.vercel.app/]
 
